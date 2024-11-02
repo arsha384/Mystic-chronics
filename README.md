@@ -31,9 +31,11 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1!("C:\Users\a\Videos\Captures\website frontpage.png")
+
+![Past Life Stories - Profile 1 - Microsoft​ Edge 02-11-2024 23_23_18](https://github.com/user-attachments/assets/a97de1b1-db37-495a-af02-98497ea3c3b9)
 
 ![Screenshot2]("C:\Users\a\Videos\Captures\website second page.png")
+![Uploading Past Life Stories - Profile 1 - Microsoft​ Edge 02-11-2024 23_23_28.png…]()
 
 For Hardware:
 
